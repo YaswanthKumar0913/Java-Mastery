@@ -30,3 +30,6 @@ A complete step by step guide to build strong java foundation from beginner to a
 16. [Java Memory Management and Garbage Collection](./16-memory-management.md)
 
 ---
+## Let’s Get Started!
+
+👉 Go to the next section: [Introduction to Programming Languages](./01-introduction.md)
