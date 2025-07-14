@@ -63,6 +63,6 @@ Java is one of the most popular and widely used programming languages in the wor
 
 ---
 
-## Let’s Get Started!
+## Keep Learning!
 
 👉 Go to the next section: [02 – How Java Works Internally](./02-how-java-works.md)
