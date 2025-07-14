@@ -86,6 +86,6 @@ v
 Machine Code → Output on Screen
 ```
 ---
-## Let’s Get Started!
+## Keep Learning!
 
 👉 Go to the next section: [Java Syntax, Variables & Data Types](./03-java-basics.md)
