@@ -85,3 +85,7 @@ Bytecode (.class)
 v
 Machine Code → Output on Screen
 ```
+---
+## Let’s Get Started!
+
+👉 Go to the next section: [03 – How Java Works Internally](./02-how-java-works.md)
