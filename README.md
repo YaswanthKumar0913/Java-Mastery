@@ -8,25 +8,25 @@ A complete step by step guide to build strong java foundation from beginner to a
 2. [How Java Works Internally](./02-how-java-works.md)
 
 ### Java Basics
-4. [Java Syntax, Variables & Data Types](./04-java-basics.md)
-5. [Operators & Control Flow (if, switch, loops)](./05-control-flow.md)
-6. [Methods and Arrays](./06-methods-and-arrays.md)
+3. [Java Syntax, Variables & Data Types](./03-java-basics.md)
+4. [Operators & Control Flow (if, switch, loops)](./04-control-flow.md)
+5. [Methods and Arrays](./05-methods-and-arrays.md)
 
 ### Object-Oriented Programming
-7. [Classes and Objects](./07-classes-and-objects.md)
-8. [Inheritance, Polymorphism, Abstraction, Encapsulation](./08-oop-principles.md)
-9. [Constructors, ‘this’ & ‘super’ Keywords](./09-constructors-this-super.md)
+6. [Classes and Objects](./06-classes-and-objects.md)
+7. [Inheritance, Polymorphism, Abstraction, Encapsulation](./07-oop-principles.md)
+8. [Constructors, ‘this’ & ‘super’ Keywords](./08-constructors-this-super.md)
 
 ### Core Java Concepts
-10. [Strings and Wrapper Classes](./10-strings-wrapper.md)
-11. [Exception Handling](./11-exception-handling.md)
-12. [Java Collections Framework (List, Set, Map, Queue)](./12-collections.md)
-13. [Generics in Java](./13-generics.md)
+9. [Strings and Wrapper Classes](./09-strings-wrapper.md)
+10. [Exception Handling](./10-exception-handling.md)
+11. [Java Collections Framework (List, Set, Map, Queue)](./11-collections.md)
+12. [Generics in Java](./12-generics.md)
 
 ### Advanced Concepts
-14. [File I/O and Serialization](./14-file-io.md)
-15. [Multithreading and Concurrency](./15-multithreading.md)
-16. [Java 8 Features – Lambdas, Streams, Functional Interfaces](./16-java8-features.md)
-17. [Java Memory Management and Garbage Collection](./17-memory-management.md)
+13. [File I/O and Serialization](./13-file-io.md)
+14. [Multithreading and Concurrency](./14-multithreading.md)
+15. [Java 8 Features – Lambdas, Streams, Functional Interfaces](./15-java8-features.md)
+16. [Java Memory Management and Garbage Collection](./16-memory-management.md)
 
 ---
